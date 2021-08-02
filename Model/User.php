@@ -14,4 +14,8 @@ class User extends DAO{
 }
 
 echo 'T cmt git';
+echo 'xem có lỗi ko';
+// m thấy chưa
+//ai bảo ko được
+//Nhưng m sửa code xong push lên nó sẽ báo lỗi
 ?>
